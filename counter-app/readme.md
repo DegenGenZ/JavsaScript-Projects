@@ -1,5 +1,7 @@
-## A basic Counter app
+## A basic Counter App
 
-Decrease,reset and increase.
+Features
 
-Next feature would increment setting from 5+ to 10+ when enabled with a slider or something.
+Increment or decrement from set values in the select box.
+
+The text colors change when negative to red and green when positive, reseting changes the value to zero and turns the color to white.
