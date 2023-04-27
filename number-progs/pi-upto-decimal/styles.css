@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 500px;
+}
+
+.maincontainer {
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.input {
+text-align: center;
+margin-top: .5em;
+}
+.displaybox {
+    margin-top: 2em;
+    border: solid 3px grey;
+    text-align: right;
+
+}
+
+.displaybox p {
+    margin: 10px;
+}
+.btn {
+    margin-top: 3px;
+    text-align: center;
+}
